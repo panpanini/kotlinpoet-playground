@@ -1,0 +1,3 @@
+rootProject.name = 'kotlinpoet-playground'
+include 'playground'
+
