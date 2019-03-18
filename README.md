@@ -11,3 +11,5 @@ You can use this playground to quickly test KotlinPoet code, and see what is gen
 ## Usage
 The easiest way I found to use this project was to import it into IntelliJ, and open both the `CodeGenerator` and `GeneratedClass` in a split screen.
 Then, you can run the `main` function, which will generate the code from the CodeGenerator, and write it to the `GeneratedClass` file.
+
+![screenshot](screenshot.png)
